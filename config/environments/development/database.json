@@ -1,0 +1,18 @@
+{
+  "defaultConnection": "default",
+  "connections": {
+    "default": {
+      "connector": "strapi-hook-bookshelf",
+      "settings": {
+        "client": "postgres",
+        "database": "testdb",
+        "host": "mydbinstance.cqddaasf7rfm.us-east-1.rds.amazonaws.com",
+        "port": 5432,
+        "username": "tomas",
+        "password": "Elnerito2309*",
+        "ssl": true
+      },
+      "options": {}
+    }
+  }
+}
